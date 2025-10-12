@@ -3,7 +3,7 @@
     /* Палитра */
     --color-bg: #fff;
     --color-fg: #0b0b0b;
-    --color-muted: #6bff7c;
+    --color-muted: hsl(127, 100%, 71%);
     --color-primary: #3dd73f;
     --color-danger: #17ffbd;
 
